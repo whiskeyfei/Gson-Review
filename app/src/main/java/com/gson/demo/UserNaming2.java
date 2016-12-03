@@ -22,7 +22,7 @@ public class UserNaming2 {
 
     @Override
     public String toString() {
-        return "UserNaming{" +
+        return "UserNaming2{" +
                 "Name='" + Name + '\'' +
                 ", email_of_developer='" + email_of_developer + '\'' +
                 ", isDeveloper=" + isDeveloper +
