@@ -60,7 +60,6 @@ public class GsonUnit11Test {
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.excludeFieldsWithModifiers(Modifier.STATIC, Modifier.FINAL);
         Gson gson = gsonBuilder.create();
-
         UserModifier user = new UserModifier("Norman", "norman@fs.io", 26, true);
         String usersJson = gson.toJson(user);
         System.out.println("userJson:" + usersJson);
