@@ -20,6 +20,11 @@ public class UserDate {
         this.age = age;
     }
 
+    public UserDate(String _name, String email, int age, boolean isDeveloper,Date date) {
+       this(_name,email,age,isDeveloper);
+        this.registerDate = date;
+    }
+
     @Override
     public String toString() {
         return "UserDate{" +
