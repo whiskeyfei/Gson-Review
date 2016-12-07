@@ -9,7 +9,9 @@ import java.lang.reflect.Type;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
-
+/**
+ *http://www.jianshu.com/p/338a9663f9c0
+ */
 public class GsonUnit04Test {
 
     @Test

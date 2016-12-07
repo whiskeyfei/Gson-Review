@@ -9,6 +9,9 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *  http://www.jianshu.com/p/865c494d86db
+ */
 public class GsonUnit21Test {
 
     @Test

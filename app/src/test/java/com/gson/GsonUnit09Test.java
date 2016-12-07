@@ -10,6 +10,9 @@ import org.junit.Test;
 
 import java.lang.reflect.Field;
 
+/**
+ *http://www.jianshu.com/p/c8745b5021b9
+ */
 public class GsonUnit09Test {
 
 

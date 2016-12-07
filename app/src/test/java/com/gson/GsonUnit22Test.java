@@ -18,6 +18,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ *  http://www.jianshu.com/p/7537c20d2c8a
+ */
 public class GsonUnit22Test {
 
     @Test

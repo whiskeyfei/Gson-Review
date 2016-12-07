@@ -7,6 +7,9 @@ import com.gson.demo.UserSimple4;
 
 import org.junit.Test;
 
+/**
+ *http://www.jianshu.com/p/146bd51d111f
+ */
 public class GsonUnit17Test {
 
     @Test

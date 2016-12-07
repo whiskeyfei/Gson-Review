@@ -5,6 +5,9 @@ import com.gson.demo.UserSimpleSerializedName;
 
 import org.junit.Test;
 
+/**
+ * http://www.jianshu.com/p/dcfe792ba71d
+ */
 public class GsonUnit08Test {
 
     @Test

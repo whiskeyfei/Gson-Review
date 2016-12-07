@@ -10,6 +10,9 @@ import org.junit.Test;
 import java.lang.reflect.Modifier;
 import java.util.Date;
 
+/**
+ *http://www.jianshu.com/p/7a98089a2b0d
+ */
 public class GsonUnit11Test {
 
     @Test

@@ -4,6 +4,9 @@ import com.google.gson.Gson;
 
 import org.junit.Test;
 
+/**
+ * http://www.jianshu.com/p/a03bc97875b8
+ */
 public class GsonUnit02Test {
 
     @Test

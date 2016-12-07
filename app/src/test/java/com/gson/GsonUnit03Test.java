@@ -8,7 +8,9 @@ import org.junit.Test;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ *http://www.jianshu.com/p/9a4dcd436d7f
+ */
 public class GsonUnit03Test {
     private static final String founderJson = "[{\"name\": \"Christian\",\"flowerCount\": 1}, {\"name\": \"Marcus\", \"flowerCount\": 3}, {\"name\": \"Norman\", \"flowerCount\": 2}]";
 

@@ -5,6 +5,9 @@ import com.gson.demo.UserSimple;
 
 import org.junit.Test;
 
+/**
+ * http://www.jianshu.com/p/cf326567f759
+ */
 public class GsonUnit07Test {
 
     @Test

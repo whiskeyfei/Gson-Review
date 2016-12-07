@@ -13,6 +13,9 @@ import org.junit.Test;
 import java.lang.reflect.Type;
 import java.util.Date;
 
+/**
+ *  http://www.jianshu.com/p/c18e1d49f3aa
+ */
 public class GsonUnit24Test {
 
     @Test

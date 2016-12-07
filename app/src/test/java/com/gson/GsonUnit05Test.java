@@ -8,6 +8,9 @@ import org.junit.Test;
 import java.lang.reflect.Type;
 import java.util.HashSet;
 
+/**
+ *http://www.jianshu.com/p/215708d00015
+ */
 public class GsonUnit05Test {
 
     @Test

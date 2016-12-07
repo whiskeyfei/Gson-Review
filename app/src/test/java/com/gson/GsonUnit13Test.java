@@ -5,6 +5,9 @@ import com.google.gson.GsonBuilder;
 
 import org.junit.Test;
 
+/**
+ *http://www.jianshu.com/p/83eb1b2bc119
+ */
 public class GsonUnit13Test {
 
     //throw an exception

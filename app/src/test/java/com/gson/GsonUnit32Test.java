@@ -9,6 +9,9 @@ import org.junit.Test;
 
 import java.util.List;
 
+/**
+ *  http://www.jianshu.com/p/006c9eef0c70
+ */
 public class GsonUnit32Test {
 
     @Test

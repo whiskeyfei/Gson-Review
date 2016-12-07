@@ -7,6 +7,9 @@ import com.gson.demo.UserDayEnum2;
 
 import org.junit.Test;
 
+/**
+ *  http://www.jianshu.com/p/64d8993bedd7
+ */
 public class GsonUnit19Test {
 
     @Test
